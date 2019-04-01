@@ -10,11 +10,11 @@
     <clipPath id="clip-path">
       <rect width="150" height="597" fill="none"/>
     </clipPath>
-    <clipPath id="clip-Web_1366_1">
+    <clipPath id="clip-resume">
       <rect width="2480" height="3508"/>
     </clipPath>
   </defs>
-  <g id="Web_1366_1" data-name="Web 1366 – 1" clip-path="url(#clip-Web_1366_1)">
+  <g id="resume" clip-path="url(#clip-resume)">
     <rect width="2480" height="3508" fill="#fefefe"/>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Line_1)">
       <line id="Line_1-2" data-name="Line 1" x2="12" y2="3196" transform="translate(1100 150)" fill="none" stroke="#707070" stroke-width="2"/>
@@ -22,10 +22,10 @@
     <line id="Line_3" data-name="Line 3" x2="800" transform="translate(200)" fill="none" stroke="#707070" stroke-width="2"/>
     <text id="Jitendra_Sharma" data-name="Jitendra Sharma" transform="translate(150 226)" fill="#707070" font-size="80" font-family="Candara-Bold, Candara" font-weight="700"><tspan x="0" y="0">Jitendra Sharma</tspan></text>
     <text id="_6th_Aug_1999" data-name="6th Aug, 1999" transform="translate(150 304)" fill="#b2b2b2" font-size="60" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">6th Aug, 1999</tspan></text>
-    <text id="Contact" transform="translate(150 880)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Contact</tspan></text>
-    <line id="Line_2" data-name="Line 2" transform="translate(200.5 1208.5)" fill="none" stroke="#707070" stroke-width="1"/>
-    <line id="Line_4" data-name="Line 4" x2="875.543" y2="3" transform="translate(150 979)" fill="none" stroke="#707070" stroke-width="2"/>
-    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(150 1000)" clip-path="url(#clip-path)">
+    <text id="Contact" transform="translate(150 822)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Contact</tspan></text>
+    <line id="Line_2" data-name="Line 2" transform="translate(200.5 1152.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" x2="875.543" y2="3" transform="translate(150 923)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(150 944)" clip-path="url(#clip-path)">
       <g transform="translate(-201 -882)">
         <g id="Path_1" data-name="Path 1" transform="translate(201 882)" fill="#4d4d4d">
           <path d="M 50 99.5 C 43.31732177734375 99.5 36.83480072021484 98.19129180908203 30.73251914978027 95.61025238037109 C 24.8381462097168 93.11714935302734 19.54437255859375 89.54794311523438 14.99821376800537 85.00178527832031 C 10.45205307006836 80.45562744140625 6.882853507995605 75.16184997558594 4.38974666595459 69.26747894287109 C 1.808706641197205 63.16519927978516 0.5 56.68267822265625 0.5 50 C 0.5 43.31732177734375 1.808706641197205 36.83480072021484 4.38974666595459 30.73251914978027 C 6.882853507995605 24.8381462097168 10.45205307006836 19.54437255859375 14.99821376800537 14.99821376800537 C 19.54437255859375 10.45205307006836 24.8381462097168 6.882853507995605 30.73251914978027 4.38974666595459 C 36.83480072021484 1.808706641197205 43.31732177734375 0.5 50 0.5 C 56.68267822265625 0.5 63.16519927978516 1.808706641197205 69.26747894287109 4.38974666595459 C 75.16184997558594 6.882853507995605 80.45562744140625 10.45205307006836 85.00178527832031 14.99821376800537 C 89.54794311523438 19.54437255859375 93.11714935302734 24.8381462097168 95.61025238037109 30.73251914978027 C 98.19129180908203 36.83480072021484 99.5 43.31732177734375 99.5 50 C 99.5 56.68267822265625 98.19129180908203 63.16519927978516 95.61025238037109 69.26747894287109 C 93.11714935302734 75.16184997558594 89.54794311523438 80.45562744140625 85.00178527832031 85.00178527832031 C 80.45562744140625 89.54794311523438 75.16184997558594 93.11714935302734 69.26747894287109 95.61025238037109 C 63.16519927978516 98.19129180908203 56.68267822265625 99.5 50 99.5 Z" stroke="none"/>
@@ -57,163 +57,146 @@
         </g>
       </g>
     </g>
-    <text id="_91-9536097795" data-name="+91-9536097795" transform="translate(298 1060)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">+91-9536097795</tspan></text>
-    <text id="jks9536097795_gmail.com" data-name="jks9536097795@gmail.com" transform="translate(298 1179)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">jks9536097795@gmail.com</tspan></text>
-    <text id="_46-C_shastri_nagar_Mathura_India" data-name="46-C shastri nagar Mathura, India" transform="translate(298 1298)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">46-C shastri nagar Mathura, India</tspan></text>
-    <text id="https:_github.com_God-Hand" data-name="https://github.com/God-Hand" transform="translate(298 1417)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">https://github.com/God-Hand</tspan></text>
+    <text id="_91-9536097795" data-name="+91-9536097795" transform="translate(298 1004)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">+91-9536097795</tspan></text>
+    <text id="jks9536097795_gmail.com" data-name="jks9536097795@gmail.com" transform="translate(298 1123)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">jks9536097795@gmail.com</tspan></text>
+    <text id="_46-C_shastri_nagar_Mathura_India" data-name="46-C shastri nagar Mathura, India" transform="translate(298 1242)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">46-C shastri nagar Mathura, India</tspan></text>
+    <text id="https:_github.com_God-Hand" data-name="https://github.com/God-Hand" transform="translate(298 1361)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">https://github.com/God-Hand</tspan></text>
     <text id="https:_www.linkedin.com_in_jitendra-sharma-5624a7155_" data-name="https://www.linkedin.com/
-in/jitendra-sharma-5624a7155/" transform="translate(298 1536)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">https://www.linkedin.com/</tspan><tspan x="0" y="50">in/jitendra-sharma-5624a7155/</tspan></text>
-    <path id="ic_room_24px" d="M27.5,2C15.061,2,5,11.39,5,23,5,38.75,27.5,62,27.5,62S50,38.75,50,23C50,11.39,39.939,2,27.5,2Zm0,28.5A7.785,7.785,0,0,1,19.464,23,7.785,7.785,0,0,1,27.5,15.5,7.785,7.785,0,0,1,35.536,23,7.785,7.785,0,0,1,27.5,30.5Z" transform="translate(170 1256)" fill="#fbfbfb"/>
-    <path id="ic_call_24px" d="M13.056,24.639A42.08,42.08,0,0,0,31.361,42.944l6.111-6.111a2.762,2.762,0,0,1,2.833-.667,31.686,31.686,0,0,0,9.917,1.583A2.786,2.786,0,0,1,53,40.528v9.694A2.786,2.786,0,0,1,50.222,53,47.218,47.218,0,0,1,3,5.778,2.786,2.786,0,0,1,5.778,3H15.5a2.786,2.786,0,0,1,2.778,2.778,31.557,31.557,0,0,0,1.583,9.917,2.788,2.788,0,0,1-.694,2.833Z" transform="translate(172 1025)" fill="#fff"/>
-    <path id="Linkedin" d="M47.58,60V40.518c0-4.656-.069-10.634-6.455-10.634-6.476,0-7.446,5.074-7.446,10.287V60H21.257V19.922h11.89v5.491h.162c1.664-3.149,5.712-6.463,11.772-6.463C57.664,18.95,60,27.243,60,38.039V60ZM13.413,60H.972V19.922H13.415V60Zm7.82-40.078h.023ZM0,7.228a7.217,7.217,0,1,1,7.217,7.226A7.231,7.231,0,0,1,0,7.228Z" transform="translate(170 1493)" fill="#fff"/>
-    <path id="ic_markunread_24px" d="M56,4H8A5.812,5.812,0,0,0,2.03,9.625L2,43.375A5.839,5.839,0,0,0,8,49H56a5.839,5.839,0,0,0,6-5.625V9.625A5.839,5.839,0,0,0,56,4Zm0,11.25L32,29.312,8,15.25V9.625L32,23.687,56,9.625Z" transform="translate(168 1139)" fill="#fff"/>
-    <g id="Path_2" data-name="Path 2" transform="translate(150 1360)" fill="#fff">
+in/jitendra-sharma-5624a7155/" transform="translate(298 1480)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">https://www.linkedin.com/</tspan><tspan x="0" y="50">in/jitendra-sharma-5624a7155/</tspan></text>
+    <path id="ic_room_24px" d="M27.5,2C15.061,2,5,11.39,5,23,5,38.75,27.5,62,27.5,62S50,38.75,50,23C50,11.39,39.939,2,27.5,2Zm0,28.5A7.785,7.785,0,0,1,19.464,23,7.785,7.785,0,0,1,27.5,15.5,7.785,7.785,0,0,1,35.536,23,7.785,7.785,0,0,1,27.5,30.5Z" transform="translate(170 1200)" fill="#fbfbfb"/>
+    <path id="ic_call_24px" d="M13.056,24.639A42.08,42.08,0,0,0,31.361,42.944l6.111-6.111a2.762,2.762,0,0,1,2.833-.667,31.686,31.686,0,0,0,9.917,1.583A2.786,2.786,0,0,1,53,40.528v9.694A2.786,2.786,0,0,1,50.222,53,47.218,47.218,0,0,1,3,5.778,2.786,2.786,0,0,1,5.778,3H15.5a2.786,2.786,0,0,1,2.778,2.778,31.557,31.557,0,0,0,1.583,9.917,2.788,2.788,0,0,1-.694,2.833Z" transform="translate(172 969)" fill="#fff"/>
+    <path id="Linkedin" d="M47.58,60V40.518c0-4.656-.069-10.634-6.455-10.634-6.476,0-7.446,5.074-7.446,10.287V60H21.257V19.922h11.89v5.491h.162c1.664-3.149,5.712-6.463,11.772-6.463C57.664,18.95,60,27.243,60,38.039V60ZM13.413,60H.972V19.922H13.415V60Zm7.82-40.078h.023ZM0,7.228a7.217,7.217,0,1,1,7.217,7.226A7.231,7.231,0,0,1,0,7.228Z" transform="translate(170 1437)" fill="#fff"/>
+    <path id="ic_markunread_24px" d="M56,4H8A5.812,5.812,0,0,0,2.03,9.625L2,43.375A5.839,5.839,0,0,0,8,49H56a5.839,5.839,0,0,0,6-5.625V9.625A5.839,5.839,0,0,0,56,4Zm0,11.25L32,29.312,8,15.25V9.625L32,23.687,56,9.625Z" transform="translate(168 1083)" fill="#fff"/>
+    <g id="Path_2" data-name="Path 2" transform="translate(150 1304)" fill="#fff">
       <path d="M 50 99.5 C 43.31732177734375 99.5 36.83480072021484 98.19129180908203 30.73251914978027 95.61025238037109 C 24.8381462097168 93.11714935302734 19.54437255859375 89.54794311523438 14.99821376800537 85.00178527832031 C 10.45205307006836 80.45562744140625 6.882853507995605 75.16184997558594 4.38974666595459 69.26747894287109 C 1.808706641197205 63.16519927978516 0.5 56.68267822265625 0.5 50 C 0.5 43.31732177734375 1.808706641197205 36.83480072021484 4.38974666595459 30.73251914978027 C 6.882853507995605 24.8381462097168 10.45205307006836 19.54437255859375 14.99821376800537 14.99821376800537 C 19.54437255859375 10.45205307006836 24.8381462097168 6.882853507995605 30.73251914978027 4.38974666595459 C 36.83480072021484 1.808706641197205 43.31732177734375 0.5 50 0.5 C 56.68267822265625 0.5 63.16519927978516 1.808706641197205 69.26747894287109 4.38974666595459 C 75.16184997558594 6.882853507995605 80.45562744140625 10.45205307006836 85.00178527832031 14.99821376800537 C 89.54794311523438 19.54437255859375 93.11714935302734 24.8381462097168 95.61025238037109 30.73251914978027 C 98.19129180908203 36.83480072021484 99.5 43.31732177734375 99.5 50 C 99.5 56.68267822265625 98.19129180908203 63.16519927978516 95.61025238037109 69.26747894287109 C 93.11714935302734 75.16184997558594 89.54794311523438 80.45562744140625 85.00178527832031 85.00178527832031 C 80.45562744140625 89.54794311523438 75.16184997558594 93.11714935302734 69.26747894287109 95.61025238037109 C 63.16519927978516 98.19129180908203 56.68267822265625 99.5 50 99.5 Z" stroke="none"/>
       <path d="M 50 1 C 43.38460159301758 1 36.96761322021484 2.29541015625 30.92729187011719 4.850250244140625 C 25.09253692626953 7.318145751953125 19.85215759277344 10.85137176513672 15.35177612304688 15.35177612304688 C 10.85137176513672 19.85215759277344 7.318145751953125 25.09253692626953 4.850250244140625 30.92729187011719 C 2.29541015625 36.96761322021484 1 43.38460159301758 1 50 C 1 56.61539840698242 2.29541015625 63.03238677978516 4.850250244140625 69.07270812988281 C 7.318145751953125 74.907470703125 10.85137176513672 80.14784240722656 15.35177612304688 84.64822387695313 C 19.85215759277344 89.14862823486328 25.09253692626953 92.68185424804688 30.92729187011719 95.14974975585938 C 36.96761322021484 97.70458984375 43.38460159301758 99 50 99 C 56.61539840698242 99 63.03238677978516 97.70458984375 69.07270812988281 95.14974975585938 C 74.907470703125 92.68185424804688 80.14784240722656 89.14862823486328 84.64822387695313 84.64822387695313 C 89.14862823486328 80.14784240722656 92.68185424804688 74.907470703125 95.14974975585938 69.07270812988281 C 97.70458984375 63.03238677978516 99 56.61539840698242 99 50 C 99 43.38460159301758 97.70458984375 36.96761322021484 95.14974975585938 30.92729187011719 C 92.68185424804688 25.09253692626953 89.14862823486328 19.85215759277344 84.64822387695313 15.35177612304688 C 80.14784240722656 10.85137176513672 74.907470703125 7.318145751953125 69.07270812988281 4.850250244140625 C 63.03238677978516 2.29541015625 56.61539840698242 1 50 1 M 50 0 C 77.61424255371094 0 100 22.38575744628906 100 50 C 100 77.61424255371094 77.61424255371094 100 50 100 C 22.38575744628906 100 0 77.61424255371094 0 50 C 0 22.38575744628906 22.38575744628906 0 50 0 Z" stroke="none" fill="#707070"/>
     </g>
-    <g id="Github" transform="translate(0 -60)">
+    <g id="Github" transform="translate(0 -116)">
       <path id="Github-2" data-name="Github" d="M66.909,99.918h-.455L66,99.457V85.171a15.96,15.96,0,0,0-1.818-8.295C74.636,75.033,86,69.5,86,48.765a24.021,24.021,0,0,0-5-14.747c.909-2.765,1.364-7.834-.909-14.286l-1.364-1.382a4.652,4.652,0,0,0-1.818-.461c-2.727,0-6.818.922-13.636,5.53-3.636-.461-7.727-1.382-12.273-1.382A56.749,56.749,0,0,0,38.273,23.42c-6.364-4.147-10.909-5.069-13.636-5.069-.909,0-1.364.461-1.818.461a2.063,2.063,0,0,0-1.364,1.382c-2.273,6.452-1.818,11.521-.909,14.286a24.021,24.021,0,0,0-5,14.747c0,20.277,11.818,25.806,21.818,28.111A32.026,32.026,0,0,0,36,81.024a8.975,8.975,0,0,1-4.091.922,6.781,6.781,0,0,1-5-1.843l-.455-.461c-.455-.461-.455-.922-.909-.922l-.455-.461-.455-.461c0-.461-3.636-5.991-10-6.452-2.273,0-4.091.922-4.545,2.3-.909,2.3,1.818,4.147,3.182,5.069,0,0,2.727,1.382,4.545,6.452.909,3.226,5,9.217,14.545,9.217h3.182v6.452l-.455.461h0C14.636,93.005,1,73.65,1,51.991,1,23.881,23.273,1.3,51,1.3s50,22.581,50,50.691A50.455,50.455,0,0,1,66.909,99.918Z" transform="translate(149 1416.7)" fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1"/>
     </g>
     <text id="Skills_" data-name="Skills
 
-" transform="translate(150 1700)" fill="#707070" font-size="100" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="95">Skills</tspan></text>
-    <line id="Line_5" data-name="Line 5" x2="875.543" y2="3" transform="translate(150 1819)" fill="none" stroke="#707070" stroke-width="2"/>
-    <text id="Profile" transform="translate(150 400)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Profile</tspan></text>
-    <path id="Path_3" data-name="Path 3" d="M0,0,507.129,1.127,900,2" transform="translate(150 499)" fill="none" stroke="#707070" stroke-width="2"/>
-    <text id="Cloud_Computing_" data-name="Cloud Computing " transform="translate(150 1842)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Cloud Computing </tspan></text>
-    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(720 1847)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(800 1847)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(880 1847)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_1-4" data-name="Rectangle 1" transform="translate(960 1847)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
+" transform="translate(150 1621)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Skills</tspan></text>
+    <line id="Line_5" data-name="Line 5" x2="876" y2="3" transform="translate(150 1721)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="Summary" transform="translate(150 370)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Summary</tspan></text>
+    <path id="Path_3" data-name="Path 3" d="M0,6,493.348,2.619,875.543,0" transform="translate(150 464)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="Cloud_Computing_" data-name="Cloud Computing " transform="translate(200 1744)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Cloud Computing </tspan></text>
     <text id="Languages_" data-name="Languages
 
 
 
-" transform="translate(150 2283)" fill="#707070" font-size="100" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="95">Languages</tspan></text>
-    <line id="Line_7" data-name="Line 7" x2="875.543" y2="3" transform="translate(150 2402)" fill="none" stroke="#707070" stroke-width="2"/>
+" transform="translate(150 2120)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Languages</tspan></text>
+    <line id="Line_7" data-name="Line 7" x2="875.543" y2="3" transform="translate(150 2220)" fill="none" stroke="#707070" stroke-width="2"/>
     <text id="Interest_" data-name="Interest
-" transform="translate(154 2914)" fill="#707070" font-size="100" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="95">Interest</tspan></text>
-    <line id="Line_8" data-name="Line 8" x2="875.543" y2="3" transform="translate(150 3032)" fill="none" stroke="#707070" stroke-width="2"/>
-    <text id="To_pursue_a_challenging_career_and_be_a_part_of_progressive_organization_that_gives_me_a_scope_to_enhance_my_knowledge_and_utilizing_my_skills_towards_the_growth_of_the_organization." data-name="To pursue a challenging career and be a part of progressive  organization that gives me a scope to enhance my knowledge and utilizing my skills towards the growth of the organization." transform="translate(150 500)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="48">To pursue a challenging career and be a </tspan><tspan x="0" y="108" xml:space="preserve">part of progressive  organization that </tspan><tspan x="0" y="168">gives me a scope to enhance my </tspan><tspan x="0" y="228">knowledge and utilizing my skills towards </tspan><tspan x="0" y="288">the growth of the organization.</tspan></text>
+" transform="translate(154 2482)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Interest</tspan></text>
+    <line id="Line_8" data-name="Line 8" x2="875.543" y2="3" transform="translate(150 2582)" fill="none" stroke="#707070" stroke-width="2"/>
     <text id="Education" transform="translate(1200 150)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Education</tspan></text>
     <line id="Line_9" data-name="Line 9" x2="1150" y2="2" transform="translate(1200 250)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Line_10" data-name="Line 10" y2="330" transform="translate(1200 348)" fill="none" stroke="#4d4d4d" stroke-width="5"/>
+    <line id="Line_10" data-name="Line 10" y2="369.328" transform="translate(1200 348)" fill="none" stroke="#4d4d4d" stroke-width="5"/>
     <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1190 338)" fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1">
       <circle cx="10" cy="10" r="10" stroke="none"/>
       <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(1190 668.091)" fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1">
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(1190 707.419)" fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1">
       <circle cx="10" cy="10" r="10" stroke="none"/>
       <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_34" data-name="Rectangle 34" transform="translate(1300 300)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="1050" height="120" rx="27" stroke="none"/>
-      <rect x="0.5" y="0.5" width="1049" height="119" rx="26.5" fill="none"/>
+    <g id="Rectangle_34" data-name="Rectangle 34" transform="translate(1300 300)" fill="rgba(221,221,221,0.2)" stroke="#707070" stroke-width="1">
+      <rect width="1050" height="130" rx="27" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1049" height="129" rx="26.5" fill="none"/>
     </g>
-    <text id="B.tech_GLA_University_-_8.17_CPI_Current_" data-name="B.tech (GLA University) - 8.17 CPI (Current)" transform="translate(1346 348)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">B.tech (GLA University) - 8.17 CPI (Current)</tspan></text>
-    <text id="Shriji_baba_Saraswati_vidya_mandir_Mathura" data-name="Shriji baba Saraswati vidya mandir, Mathura" transform="translate(1346 391)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Shriji baba Saraswati vidya mandir, Mathura</tspan></text>
-    <g id="Rectangle_35" data-name="Rectangle 35" transform="translate(1350 460)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="1000" height="120" rx="27" stroke="none"/>
-      <rect x="0.5" y="0.5" width="999" height="119" rx="26.5" fill="none"/>
+    <text id="B.tech_-_8.17_CPI_Current_" data-name="B.tech - 8.17 CPI (Current)" transform="translate(1330 348)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">B.tech - 8.17 CPI (Current)</tspan></text>
+    <text id="GLA_University_Mathura" data-name="GLA University, Mathura" transform="translate(1330 407)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">GLA University, Mathura</tspan></text>
+    <g id="Rectangle_35" data-name="Rectangle 35" transform="translate(1350 480)" fill="rgba(221,221,221,0.2)" stroke="#707070" stroke-width="1">
+      <rect width="1000" height="130" rx="27" stroke="none"/>
+      <rect x="0.5" y="0.5" width="999" height="129" rx="26.5" fill="none"/>
     </g>
-    <text id="_12th_CBSE_-_89_" data-name="12th (CBSE) - 89%" transform="translate(1396 513)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">12th (CBSE) - 89%</tspan></text>
-    <text id="Shriji_baba_Saraswati_vidya_mandir_Mathura-2" data-name="Shriji baba Saraswati vidya mandir, Mathura" transform="translate(1396 561.483)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Shriji baba Saraswati vidya mandir, Mathura</tspan></text>
-    <g id="Rectangle_36" data-name="Rectangle 36" transform="translate(1250 620)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="1000" height="120" rx="27" stroke="none"/>
-      <rect x="0.5" y="0.5" width="999" height="119" rx="26.5" fill="none"/>
+    <text id="_12th_CBSE_-_89_" data-name="12th (CBSE) - 89%" transform="translate(1380 528.336)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">12th (CBSE) - 89%</tspan></text>
+    <text id="Shriji_baba_Saraswati_vidya_mandir_Mathura" data-name="Shriji baba Saraswati vidya mandir, Mathura" transform="translate(1380 587.336)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Shriji baba Saraswati vidya mandir, Mathura</tspan></text>
+    <g id="Rectangle_36" data-name="Rectangle 36" transform="translate(1250 660)" fill="rgba(221,221,221,0.2)" stroke="#707070" stroke-width="1">
+      <rect width="1000" height="130" rx="27" stroke="none"/>
+      <rect x="0.5" y="0.5" width="999" height="129" rx="26.5" fill="none"/>
     </g>
-    <text id="_10th_CBSE_-_9.2_CGPA" data-name="10th (CBSE) - 9.2 CGPA" transform="translate(1296 668)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">10th (CBSE) - 9.2 CGPA</tspan></text>
-    <text id="Shriji_baba_Saraswati_vidya_mandir_Mathura-3" data-name="Shriji baba Saraswati vidya mandir, Mathura" transform="translate(1296 711)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Shriji baba Saraswati vidya mandir, Mathura</tspan></text>
+    <text id="_10th_CBSE_-_9.2_CGPA" data-name="10th (CBSE) - 9.2 CGPA" transform="translate(1280 708.672)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">10th (CBSE) - 9.2 CGPA</tspan></text>
+    <text id="Shriji_baba_Saraswati_vidya_mandir_Mathura-2" data-name="Shriji baba Saraswati vidya mandir, Mathura" transform="translate(1280 767.672)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Shriji baba Saraswati vidya mandir, Mathura</tspan></text>
     <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1192 340)" fill="#fff" stroke="#707070" stroke-width="1">
       <circle cx="8" cy="8" r="8" stroke="none"/>
       <circle cx="8" cy="8" r="7.5" fill="none"/>
     </g>
-    <text id="Certificates" transform="translate(1200 878.788)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Certificates</tspan></text>
-    <line id="Line_11" data-name="Line 11" x2="1150" y2="2" transform="translate(1200 978.788)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Line_12" data-name="Line 12" x1="2" y2="836" transform="translate(1200 1071)" fill="none" stroke="#4d4d4d" stroke-width="5"/>
-    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1190 1058)" fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1">
+    <text id="Certificates" transform="translate(1200 875)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Certificates</tspan></text>
+    <line id="Line_11" data-name="Line 11" x2="1150" y2="2" transform="translate(1200 975)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Line_12" data-name="Line 12" x1="2" y2="1008.533" transform="translate(1200 1067.212)" fill="none" stroke="#4d4d4d" stroke-width="5"/>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1190 1054.212)" fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1">
       <circle cx="10" cy="10" r="10" stroke="none"/>
       <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(1192 1897)" fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1">
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(1190 2065.745)" fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1">
       <circle cx="10" cy="10" r="10" stroke="none"/>
       <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(1250 1020)" fill="#fff" stroke="#707070" stroke-width="1">
+    <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(1250 1015.212)" fill="rgba(221,221,221,0.2)" stroke="#707070" stroke-width="1">
       <rect width="1100" height="130" rx="46" stroke="none"/>
       <rect x="0.5" y="0.5" width="1099" height="129" rx="45.5" fill="none"/>
     </g>
-    <text id="Cloud_Computing_With_Big_Data_And_Hadoop" data-name="Cloud Computing With Big Data And Hadoop" transform="translate(1280 1072)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Cloud Computing With Big Data And Hadoop</tspan></text>
-    <text id="Robodapians_TRYST.2018_IIT_Delhi_" data-name="Robodapians (TRYST.2018 IIT Delhi)" transform="translate(1280 1121.625)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Robodapians (TRYST.2018 IIT Delhi)</tspan></text>
-    <g id="Path_4" data-name="Path 4" transform="translate(1300 1180)" fill="#fff">
+    <text id="Cloud_Computing_With_Big_Data_And_Hadoop" data-name="Cloud Computing With Big Data And Hadoop" transform="translate(1280 1065.212)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Cloud Computing With Big Data And Hadoop</tspan></text>
+    <text id="Robodapians_TRYST.2018_IIT_Delhi_" data-name="Robodapians (TRYST.2018 IIT Delhi)" transform="translate(1280 1124.212)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Robodapians (TRYST.2018 IIT Delhi)</tspan></text>
+    <g id="Path_4" data-name="Path 4" transform="translate(1300 1206.212)" fill="rgba(221,221,221,0.2)">
       <path d="M 1006.090942382813 129.5 L 944.8430786132813 129.5 L 43.90906524658203 129.5 C 38.05160140991211 129.5 32.36933517456055 128.2981262207031 27.02026748657227 125.9280014038086 C 21.85173416137695 123.6377334594727 17.2094669342041 120.3586654663086 13.22239971160889 116.1816024780273 C 9.233733177185059 112.0030670166016 6.10200023651123 107.1368026733398 3.914266586303711 101.718132019043 C 1.648666620254517 96.10666656494141 0.5 90.14546966552734 0.5 84 L 0.5 46 C 0.5 39.85453414916992 1.648666620254517 33.89333343505859 3.914266586303711 28.2818660736084 C 6.10200023651123 22.86319923400879 9.233733177185059 17.99693298339844 13.22239971160889 13.81840038299561 C 17.2094669342041 9.64133358001709 21.85173416137695 6.362266540527344 27.02026748657227 4.072000026702881 C 32.36933517456055 1.701866626739502 38.05160140991211 0.5 43.90906524658203 0.5 L 1006.090942382813 0.5 C 1011.948425292969 0.5 1017.630676269531 1.701866626739502 1022.979858398438 4.072000026702881 C 1028.148315429688 6.362266540527344 1032.79052734375 9.64133358001709 1036.777709960938 13.81840038299561 C 1040.766357421875 17.99693298339844 1043.89794921875 22.86319923400879 1046.085693359375 28.2818660736084 C 1048.351318359375 33.89333343505859 1049.5 39.85453414916992 1049.5 46 L 1049.5 84 C 1049.5 90.14546966552734 1048.351318359375 96.10666656494141 1046.085693359375 101.718132019043 C 1043.89794921875 107.1368026733398 1040.766357421875 112.0030670166016 1036.777709960938 116.1816024780273 C 1032.79052734375 120.3586654663086 1028.148315429688 123.6377334594727 1022.979858398438 125.9280014038086 C 1017.630676269531 128.2981262207031 1011.948425292969 129.5 1006.090942382813 129.5 Z" stroke="none"/>
       <path d="M 43.9090576171875 1 C 38.12188720703125 1 32.50775146484375 2.187332153320313 27.2227783203125 4.529197692871094 C 22.1143798828125 6.79266357421875 17.5257568359375 10.03413391113281 13.583984375 14.16359710693359 C 9.63916015625 18.2962646484375 6.5418701171875 23.10933685302734 4.3778076171875 28.46907043457031 C 2.136474609375 34.02066802978516 1 39.91893005371094 1 46 L 1 84 C 1 90.08106994628906 2.136474609375 95.97933197021484 4.3778076171875 101.5309295654297 C 6.5418701171875 106.8906707763672 9.63916015625 111.7037353515625 13.583984375 115.8364028930664 C 17.5257568359375 119.9658660888672 22.1143798828125 123.2073364257813 27.2227783203125 125.4708023071289 C 32.50775146484375 127.8126678466797 38.12188720703125 129 43.9090576171875 129 L 944.8430786132813 129 L 1006.0908203125 129 C 1011.878112792969 129 1017.492248535156 127.8126678466797 1022.777221679688 125.4708023071289 C 1027.885620117188 123.2073364257813 1032.474243164063 119.9658660888672 1036.416015625 115.8364028930664 C 1040.36083984375 111.7037353515625 1043.458129882813 106.8906707763672 1045.622192382813 101.5309295654297 C 1047.863525390625 95.97933197021484 1049 90.08106994628906 1049 84 L 1049 46 C 1049 39.91893005371094 1047.863525390625 34.02066802978516 1045.622192382813 28.46907043457031 C 1043.458129882813 23.10933685302734 1040.36083984375 18.2962646484375 1036.416015625 14.16359710693359 C 1032.474243164063 10.03413391113281 1027.885620117188 6.79266357421875 1022.777221679688 4.529197692871094 C 1017.492248535156 2.187332153320313 1011.878112792969 1 1006.0908203125 1 L 43.9090576171875 1 M 43.9090576171875 0 L 1006.0908203125 0 C 1030.34130859375 0 1050 20.59493255615234 1050 46 L 1050 84 C 1050 109.4050674438477 1030.34130859375 130 1006.0908203125 130 L 944.8430786132813 130 L 43.9090576171875 130 C 19.6588134765625 130 0 109.4050674438477 0 84 L 0 46 C 0 20.59493255615234 19.6588134765625 0 43.9090576171875 0 Z" stroke="none" fill="#707070"/>
     </g>
-    <text id="AWS_Certified_Solutions_Architect_Associate_" data-name="AWS Certified Solutions Architect Associate " transform="translate(1332 1230.096)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">AWS Certified Solutions Architect Associate </tspan></text>
-    <text id="_Udemy_ACloudGuru_" data-name=" Udemy (ACloudGuru)" transform="translate(1332 1288.188)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0" xml:space="preserve"> Udemy (ACloudGuru)</tspan></text>
-    <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(1250 1340)" fill="#fff" stroke="#707070" stroke-width="1">
+    <text id="AWS_Certified_Solutions_Architect_Associate_" data-name="AWS Certified Solutions Architect Associate " transform="translate(1332 1254.212)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">AWS Certified Solutions Architect Associate </tspan></text>
+    <text id="_Udemy_ACloudGuru_" data-name=" Udemy (ACloudGuru)" transform="translate(1332 1313.212)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0" xml:space="preserve"> Udemy (ACloudGuru)</tspan></text>
+    <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(1250 1396.212)" fill="rgba(221,221,221,0.2)" stroke="#707070" stroke-width="1">
       <rect width="1000" height="130" rx="46" stroke="none"/>
       <rect x="0.5" y="0.5" width="999" height="129" rx="45.5" fill="none"/>
     </g>
-    <text id="Programming_with_Python" data-name="Programming with Python" transform="translate(1280 1388)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Programming with Python</tspan></text>
-    <text id="Internshala_Training_Certificate_" data-name="Internshala (Training Certificate)" transform="translate(1280 1443.889)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Internshala (Training Certificate)</tspan></text>
-    <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(1300 1497)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="1050" height="136" rx="46" stroke="none"/>
-      <rect x="0.5" y="0.5" width="1049" height="135" rx="45.5" fill="none"/>
+    <text id="Programming_with_Python" data-name="Programming with Python" transform="translate(1280 1444.212)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Programming with Python</tspan></text>
+    <text id="Internshala_Training_Certificate_" data-name="Internshala (Training Certificate)" transform="translate(1280 1503.212)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Internshala (Training Certificate)</tspan></text>
+    <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(1300 1586.212)" fill="rgba(221,221,221,0.2)" stroke="#707070" stroke-width="1">
+      <rect width="1000" height="130" rx="46" stroke="none"/>
+      <rect x="0.5" y="0.5" width="999" height="129" rx="45.5" fill="none"/>
     </g>
-    <text id="UI-UX_Design_in_JavaFX" data-name="UI-UX Design in JavaFX" transform="translate(1330 1548)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">UI-UX Design in JavaFX</tspan></text>
-    <text id="Udemy_Mohamed_Adel_Android_Developer_" data-name="Udemy (Mohamed Adel, Android Developer)" transform="translate(1330 1601.713)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Udemy (Mohamed Adel, Android Developer)</tspan></text>
-    <text id="Summer_Training_Project" data-name="Summer Training Project" transform="translate(1200 2066)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Summer Training Project</tspan></text>
-    <line id="Line_13" data-name="Line 13" x2="1150" y2="2" transform="translate(1200 2166)" fill="none" stroke="#707070" stroke-width="2"/>
-    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(1200 2226)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="1150" height="400" rx="46" stroke="none"/>
-      <rect x="0.5" y="0.5" width="1149" height="399" rx="45.5" fill="none"/>
+    <text id="UI-UX_Design_in_JavaFX" data-name="UI-UX Design in JavaFX" transform="translate(1330 1634.212)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">UI-UX Design in JavaFX</tspan></text>
+    <text id="Udemy_Mohamed_Adel_Android_Developer_" data-name="Udemy (Mohamed Adel, Android Developer)" transform="translate(1330 1693.212)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Udemy (Mohamed Adel, Android Developer)</tspan></text>
+    <text id="Summer_Training_Project" data-name="Summer Training Project" transform="translate(1200 2192)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Summer Training Project</tspan></text>
+    <line id="Line_13" data-name="Line 13" x2="1150" y2="2" transform="translate(1200 2292)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(1200 2352)" fill="rgba(221,221,221,0.3)" stroke="#707070" stroke-width="1">
+      <rect width="1150" height="347" rx="46" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1149" height="346" rx="45.5" fill="none"/>
     </g>
-    <text id="Title" transform="translate(1230 2293)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Title</tspan></text>
-    <text id="_-" data-name="-" transform="translate(1560 2293)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
-    <text id="Duration" transform="translate(1230 2371)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Duration</tspan></text>
-    <text id="_--2" data-name="-" transform="translate(1560 2371)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+    <text id="Title" transform="translate(1230 2419)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Title</tspan></text>
+    <text id="_-" data-name="-" transform="translate(1560 2419)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+    <text id="Duration" transform="translate(1230 2482)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Duration</tspan></text>
+    <text id="_--2" data-name="-" transform="translate(1560 2482)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
     <text id="Used_Technologies" data-name="Used 
-Technologies" transform="translate(1230 2449)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Used </tspan><tspan x="0" y="50">Technologies</tspan></text>
-    <text id="_--3" data-name="-" transform="translate(1560 2449)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
-    <text id="Role" transform="translate(1230 2577)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Role</tspan></text>
-    <text id="_--4" data-name="-" transform="translate(1560 2577)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
-    <text id="Browser_Built_in_JavaFX." data-name="Browser Built in JavaFX." transform="translate(1600 2293)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Browser Built in JavaFX.</tspan></text>
-    <text id="_2_Months_15_Jun_18_-_20_Aug_18_" data-name="2 Months (15 Jun 18 - 20 Aug 18)" transform="translate(1600 2371)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">2 Months (15 Jun 18 - 20 Aug 18)</tspan></text>
-    <text id="JavaFX_FXML_JFXCSS_and_SQLite." data-name="JavaFX, FXML, JFXCSS and SQLite." transform="translate(1600 2449)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">JavaFX, FXML, JFXCSS and SQLite.</tspan></text>
-    <text id="All_roles_are_done_by_me." data-name="All roles are done by me." transform="translate(1600 2577)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">All roles are done by me.</tspan></text>
-    <text id="Mini_Project" data-name="Mini Project" transform="translate(1200 2696)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Mini Project</tspan></text>
-    <line id="Line_14" data-name="Line 14" x2="1150" y2="2" transform="translate(1200 2796)" fill="none" stroke="#707070" stroke-width="2"/>
-    <g id="Rectangle_42" data-name="Rectangle 42" transform="translate(1200 2856)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="1150" height="500" rx="46" stroke="none"/>
-      <rect x="0.5" y="0.5" width="1149" height="499" rx="45.5" fill="none"/>
+Technologies" transform="translate(1230 2545)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Used </tspan><tspan x="0" y="50">Technologies</tspan></text>
+    <text id="_--3" data-name="-" transform="translate(1560 2545)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+    <text id="Role" transform="translate(1230 2658)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Role</tspan></text>
+    <text id="_--4" data-name="-" transform="translate(1560 2658)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+    <text id="Browser_Built_in_JavaFX." data-name="Browser Built in JavaFX." transform="translate(1600 2419)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Browser Built in JavaFX.</tspan></text>
+    <text id="_2_Months_15_Jun_18_-_20_Aug_18_" data-name="2 Months (15 Jun 18 - 20 Aug 18)" transform="translate(1600 2482)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">2 Months (15 Jun 18 - 20 Aug 18)</tspan></text>
+    <text id="JavaFX_FXML_JFXCSS_and_SQLite." data-name="JavaFX, FXML, JFXCSS and SQLite." transform="translate(1591 2545)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">JavaFX, FXML, JFXCSS and SQLite.</tspan></text>
+    <text id="All_roles_are_done_by_me." data-name="All roles are done by me." transform="translate(1600 2658)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">All roles are done by me.</tspan></text>
+    <text id="Mini_Project" data-name="Mini Project" transform="translate(1200 2749)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Mini Project</tspan></text>
+    <line id="Line_14" data-name="Line 14" x2="1150" y2="2" transform="translate(1200 2849)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="Rectangle_42" data-name="Rectangle 42" transform="translate(1200 2901)" fill="rgba(221,221,221,0.3)" stroke="#707070" stroke-width="1">
+      <rect width="1150" height="445" rx="46" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1149" height="444" rx="45.5" fill="none"/>
     </g>
-    <text id="Title-2" data-name="Title" transform="translate(1230 2923)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Title</tspan></text>
-    <text id="_--5" data-name="-" transform="translate(1560 2923)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
-    <text id="Duration-2" data-name="Duration" transform="translate(1230 3051)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Duration</tspan></text>
-    <text id="_--6" data-name="-" transform="translate(1560 3047)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+    <text id="Title-2" data-name="Title" transform="translate(1230 2968)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Title</tspan></text>
+    <text id="_--5" data-name="-" transform="translate(1560 2968)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+    <text id="Duration-2" data-name="Duration" transform="translate(1230 3081)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Duration</tspan></text>
+    <text id="_--6" data-name="-" transform="translate(1560 3081)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
     <text id="Used_Technologies-2" data-name="Used 
-Technologies" transform="translate(1230 3129)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Used </tspan><tspan x="0" y="50">Technologies</tspan></text>
-    <text id="_--7" data-name="-" transform="translate(1560 3129)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+Technologies" transform="translate(1230 3144)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Used </tspan><tspan x="0" y="50">Technologies</tspan></text>
+    <text id="_--7" data-name="-" transform="translate(1560 3141)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
     <text id="Role-2" data-name="Role" transform="translate(1230 3257)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Role</tspan></text>
     <text id="_--8" data-name="-" transform="translate(1560 3257)" fill="#707070" font-size="45" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">-</tspan></text>
     <text id="Deployment_of_web_3.0_site_on_aws_EC2_with_other_services." data-name="Deployment of web 3.0 site on aws
-EC2 with other services." transform="translate(1600 2923)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Deployment of web 3.0 site on aws</tspan><tspan x="0" y="50">EC2 with other services.</tspan></text>
-    <text id="_4_Months_13_Aug_18_-_14_Dec_18_" data-name="4 Months ( 13 Aug 18 - 14 Dec 18)" transform="translate(1600 3051)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">4 Months ( 13 Aug 18 - 14 Dec 18)</tspan></text>
+EC2 with other services." transform="translate(1600 2968)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Deployment of web 3.0 site on aws</tspan><tspan x="0" y="50">EC2 with other services.</tspan></text>
+    <text id="_4_Months_13_Aug_18_-_14_Dec_18_" data-name="4 Months ( 13 Aug 18 - 14 Dec 18)" transform="translate(1600 3081)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">4 Months ( 13 Aug 18 - 14 Dec 18)</tspan></text>
     <text id="PHP_Html_Css_JavaScript_Jquery_MYSql_and_AWS_services." data-name="PHP, Html, Css, JavaScript, Jquery,
-MYSql and AWS services." transform="translate(1600 3129)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">PHP, Html, Css, JavaScript, Jquery,</tspan><tspan x="0" y="50">MYSql and AWS services.</tspan></text>
+MYSql and AWS services." transform="translate(1600 3144)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">PHP, Html, Css, JavaScript, Jquery,</tspan><tspan x="0" y="50">MYSql and AWS services.</tspan></text>
     <text id="Backend_Integration_and_Deployment_on_AWS_EC2." data-name="Backend, Integration and Deployment 
 on AWS EC2." transform="translate(1600 3257)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Backend, Integration and Deployment </tspan><tspan x="0" y="50">on AWS EC2.</tspan></text>
     <g id="Path_6" data-name="Path 6" transform="translate(0.444)">
@@ -235,256 +218,103 @@ on AWS EC2." transform="translate(1600 3257)" fill="#707070" font-size="45" font
     <line id="Line_19" data-name="Line 19" transform="translate(2477.5 1578.5)" fill="none" stroke="#707070" stroke-width="1"/>
     <line id="Line_20" data-name="Line 20" transform="translate(2476.5 1578.5)" fill="none" stroke="#000" stroke-width="1"/>
     <line id="Line_21" data-name="Line 21" x2="2" y2="1" transform="translate(2475.5 1577.5)" fill="none" stroke="#000" stroke-width="1"/>
-    <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(1250 1820)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="1100" height="144" rx="46" stroke="none"/>
-      <rect x="0.5" y="0.5" width="1099" height="143" rx="45.5" fill="none"/>
+    <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(1250 1959.212)" fill="rgba(221,221,221,0.2)" stroke="#707070" stroke-width="1">
+      <rect width="1113" height="130" rx="46" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1112" height="129" rx="45.5" fill="none"/>
     </g>
-    <text id="Build_Social_Networking_Site_Using_PHP_MySQL" data-name="Build Social Networking Site Using PHP+MySQL" transform="translate(1271 1874.912)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Build Social Networking Site Using PHP+MySQL</tspan></text>
-    <text id="Udemy_Reece_Kenney_Engineer_in_Microsoft_" data-name="Udemy (Reece Kenney, Engineer in Microsoft)" transform="translate(1277 1928.625)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Udemy (Reece Kenney, Engineer in Microsoft)</tspan></text>
-    <g id="Path_7" data-name="Path 7" transform="translate(150 3070)" fill="#fff">
-      <path d="M 120.657096862793 79.5 L 6.73933219909668 79.5 C 5.118198871612549 79.5 3.576515436172485 78.45841979980469 2.398282051086426 76.56710052490234 C 1.174165487289429 74.60213470458984 0.4999988079071045 71.97938537597656 0.4999988079071045 69.18201446533203 L 0.4999988079071045 10.81798362731934 C 0.4999988079071045 8.02061653137207 1.174165487289429 5.397866725921631 2.398282051086426 3.432899951934814 C 3.576532125473022 1.541583299636841 5.118198871612549 0.5 6.73933219909668 0.5 L 120.657096862793 0.5 C 122.2782135009766 0.5 123.8199005126953 1.541583299636841 124.9981307983398 3.432899951934814 C 126.2222671508789 5.397883415222168 126.8964309692383 8.02061653137207 126.8964309692383 10.81798362731934 L 126.8964309692383 69.18201446533203 C 126.8964309692383 71.97938537597656 126.2222671508789 74.60213470458984 124.9981307983398 76.56710052490234 C 123.8199005126953 78.45841979980469 122.2782135009766 79.5 120.657096862793 79.5 Z" stroke="none"/>
-      <path d="M 6.739334106445313 1 C 5.297218322753906 1 3.90625 1.957916259765625 2.822662353515625 3.697265625 C 1.647300720214844 5.583984375 1 8.112831115722656 1 10.81798553466797 L 1 69.18201446533203 C 1 71.88716888427734 1.647300720214844 74.416015625 2.822662353515625 76.30271911621094 C 3.90625 78.04208374023438 5.297218322753906 79 6.739334106445313 79 L 120.6570816040039 79 C 122.0991973876953 79 123.4901657104492 78.04208374023438 124.5737457275391 76.30271911621094 C 125.7491302490234 74.416015625 126.3964309692383 71.88716888427734 126.3964309692383 69.18201446533203 L 126.3964309692383 10.81798553466797 C 126.3964309692383 8.112831115722656 125.7491302490234 5.583984375 124.5737457275391 3.697265625 C 123.4901657104492 1.957916259765625 122.0991973876953 1 120.6570816040039 1 L 6.739334106445313 1 M 6.739334106445313 0 L 120.6570816040039 0 C 124.3791122436523 0 127.3964309692383 4.843368530273438 127.3964309692383 10.81798553466797 L 127.3964309692383 69.18201446533203 C 127.3964309692383 75.1566162109375 124.3791122436523 80 120.6570816040039 80 L 6.739334106445313 80 C 3.017295837402344 80 0 75.1566162109375 0 69.18201446533203 L 0 10.81798553466797 C 0 4.843368530273438 3.017295837402344 0 6.739334106445313 0 Z" stroke="none" fill="#707070"/>
+    <text id="Build_Social_Networking_Site_Using_PHP_MySQL" data-name="Build Social Networking Site Using PHP+MySQL" transform="translate(1275 2007.212)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Build Social Networking Site Using PHP+MySQL</tspan></text>
+    <text id="Udemy_Reece_Kenney_Engineer_in_Microsoft_" data-name="Udemy (Reece Kenney, Engineer in Microsoft)" transform="translate(1275 2066.212)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Udemy (Reece Kenney, Engineer in Microsoft)</tspan></text>
+    <g id="Rectangle_46" data-name="Rectangle 46" transform="translate(1250 1776.212)" fill="rgba(221,221,221,0.2)" stroke="#707070" stroke-width="1">
+      <rect width="1000" height="130" rx="46" stroke="none"/>
+      <rect x="0.5" y="0.5" width="999" height="129" rx="45.5" fill="none"/>
     </g>
-    <g id="Rectangle_46" data-name="Rectangle 46" transform="translate(1250 1664)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="1000" height="118" rx="46" stroke="none"/>
-      <rect x="0.5" y="0.5" width="999" height="117" rx="45.5" fill="none"/>
-    </g>
-    <text id="Internet_of_Things" data-name="Internet of Things" transform="translate(1280 1708)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Internet of Things</tspan></text>
-    <text id="Internshala_Training_Certificate_2" data-name="Internshala (Training Certificate)" transform="translate(1280 1757)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Internshala (Training Certificate)</tspan></text>
-    <text id="C_" data-name="C++" transform="translate(170 3128)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">C++</tspan></text>
-    <g id="Path_8" data-name="Path 8" transform="translate(310 3070)" fill="#fff">
+    <text id="Internet_of_Things" data-name="Internet of Things" transform="translate(1280 1824.212)" fill="#707070" font-size="50" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">Internet of Things</tspan></text>
+    <text id="Internshala_Training_Certificate_2" data-name="Internshala (Training Certificate)" transform="translate(1280 1883.212)" fill="#707070" font-size="45" font-family="Cambria"><tspan x="0" y="0">Internshala (Training Certificate)</tspan></text>
+    <g id="Path_8" data-name="Path 8" transform="translate(570 2620)" fill="#fff">
       <path d="M 369.3688049316406 79.5 L 20.63120079040527 79.5 C 15.19979953765869 79.5 10.10130023956299 78.39505004882813 6.27495002746582 76.38870239257813 C 4.441150188446045 75.42714691162109 3.006400108337402 74.3135986328125 2.010449886322021 73.07894897460938 C 1.00820004940033 71.83640289306641 0.5 70.52529907226563 0.5 69.18199920654297 L 0.5 10.81799983978271 C 0.5 9.474699974060059 1.00820004940033 8.163599967956543 2.010449886322021 6.921050071716309 C 3.006400108337402 5.686450004577637 4.441150188446045 4.57289981842041 6.27495002746582 3.611350059509277 C 10.10134983062744 1.604949951171875 15.19979953765869 0.5 20.63120079040527 0.5 L 369.3688049316406 0.5 C 374.8001403808594 0.5 379.8986511230469 1.604949951171875 383.7250366210938 3.611350059509277 C 385.558837890625 4.57289981842041 386.9935913085938 5.686450004577637 387.989501953125 6.92110013961792 C 388.9917907714844 8.163599967956543 389.5 9.474699974060059 389.5 10.81799983978271 L 389.5 69.18199920654297 C 389.5 70.52529907226563 388.9917907714844 71.83640289306641 387.989501953125 73.07894897460938 C 386.9935913085938 74.3135986328125 385.558837890625 75.42714691162109 383.7250366210938 76.38870239257813 C 379.8986511230469 78.39505004882813 374.8002014160156 79.5 369.3688049316406 79.5 Z" stroke="none"/>
       <path d="M 20.63119506835938 1 C 15.27920532226563 1 10.26321411132813 2.084648132324219 6.507110595703125 4.054153442382813 C 4.73431396484375 4.98370361328125 3.35235595703125 6.053901672363281 2.399658203125 7.234947204589844 C 1.47088623046875 8.3863525390625 1 9.591850280761719 1 10.81800079345703 L 1 69.18199920654297 C 1 70.40814971923828 1.47088623046875 71.6136474609375 2.399658203125 72.76499938964844 C 3.35235595703125 73.94605255126953 4.73431396484375 75.01625061035156 6.507110595703125 75.94584655761719 C 10.26321411132813 77.91535186767578 15.27920532226563 79 20.63119506835938 79 L 369.3687438964844 79 C 374.7207641601563 79 379.7367553710938 77.91535186767578 383.4928588867188 75.94584655761719 C 385.2656860351563 75.01625061035156 386.6476440429688 73.94605255126953 387.600341796875 72.76499938964844 C 388.5291137695313 71.6136474609375 389 70.40814971923828 389 69.18199920654297 L 389 10.81800079345703 C 389 9.591850280761719 388.5291137695313 8.3863525390625 387.600341796875 7.235000610351563 C 386.6476440429688 6.053901672363281 385.2656860351563 4.983749389648438 383.4928588867188 4.054153442382813 C 379.7367858886719 2.084648132324219 374.7207641601563 1 369.3687438964844 1 L 20.63119506835938 1 M 20.63119506835938 0 L 369.3687438964844 0 C 380.7630615234375 0 390 4.843353271484375 390 10.81800079345703 L 390 69.18199920654297 C 390 75.15660095214844 380.7630615234375 80 369.3687438964844 80 L 20.63119506835938 80 C 9.236907958984375 80 0 75.15660095214844 0 69.18199920654297 L 0 10.81800079345703 C 0 4.843353271484375 9.236907958984375 0 20.63119506835938 0 Z" stroke="none" fill="#707070"/>
     </g>
-    <text id="Problem_Solving" data-name="Problem Solving" transform="translate(329 3128)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">Problem Solving</tspan></text>
-    <g id="Path_9" data-name="Path 9" transform="translate(150 3180)" fill="#fff">
+    <text id="Problem_Solving" data-name="Problem Solving" transform="translate(589 2678)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">Problem Solving</tspan></text>
+    <g id="Path_9" data-name="Path 9" transform="translate(150 2730)" fill="#fff">
       <path d="M 336.2203063964844 79.5 L 18.77968215942383 79.5 C 13.84968185424805 79.5 9.222318649291992 78.39845275878906 5.75 76.39822387695313 C 2.364500045776367 74.447998046875 0.5 71.88526916503906 0.5 69.18204498291016 L 0.5 10.81799983978271 C 0.5 8.114772796630859 2.364500045776367 5.552000045776367 5.75 3.601772785186768 C 9.222318649291992 1.601545453071594 13.84968185424805 0.5 18.77968215942383 0.5 L 336.2203063964844 0.5 C 341.1503295898438 0.5 345.7776794433594 1.601545453071594 349.2499694824219 3.601772785186768 C 352.635498046875 5.552000045776367 354.5 8.114772796630859 354.5 10.81799983978271 L 354.5 69.18204498291016 C 354.5 71.88526916503906 352.635498046875 74.447998046875 349.2499694824219 76.39822387695313 C 345.7776794433594 78.39845275878906 341.1503295898438 79.5 336.2203063964844 79.5 Z" stroke="none"/>
       <path d="M 18.77969360351563 1 C 13.9359130859375 1 9.397186279296875 2.077865600585938 5.999603271484375 4.035041809082031 C 2.775543212890625 5.892227172851563 1 8.301139831542969 1 10.81800079345703 L 1 69.18199920654297 C 1 71.69886779785156 2.775543212890625 74.10777282714844 5.999603271484375 75.96495056152344 C 9.397186279296875 77.92213439941406 13.9359130859375 79 18.77969360351563 79 L 336.2203063964844 79 C 341.0640869140625 79 345.6028137207031 77.92213439941406 349.0003967285156 75.96495056152344 C 352.2244567871094 74.10777282714844 354 71.69886779785156 354 69.18199920654297 L 354 10.81800079345703 C 354 8.301139831542969 352.2244567871094 5.892227172851563 349.0003967285156 4.035041809082031 C 345.6028137207031 2.077865600585938 341.0640869140625 1 336.2203063964844 1 L 18.77969360351563 1 M 18.77969360351563 0 L 336.2203063964844 0 C 346.5920104980469 0 355 4.843360900878906 355 10.81800079345703 L 355 69.18199920654297 C 355 75.15663909912109 346.5920104980469 80 336.2203063964844 80 L 18.77969360351563 80 C 8.407958984375 80 0 75.15663909912109 0 69.18199920654297 L 0 10.81800079345703 C 0 4.843360900878906 8.407958984375 0 18.77969360351563 0 Z" stroke="none" fill="#707070"/>
     </g>
-    <text id="Data_Structure" data-name="Data Structure" transform="translate(180 3238)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">Data Structure</tspan></text>
-    <g id="Path_10" data-name="Path 10" transform="translate(734 3070)" fill="#fff">
-      <path d="M 188.30029296875 79.5 L 10.51758575439453 79.5 C 4.993885517120361 79.5 0.5000105500221252 74.87137603759766 0.5000105500221252 69.18202209472656 L 0.5000105500221252 10.81797504425049 C 0.5000105500221252 5.12862491607666 4.993885517120361 0.5 10.51758575439453 0.5 L 188.30029296875 0.5 C 193.8240051269531 0.5 198.3178863525391 5.12862491607666 198.3178863525391 10.81797504425049 L 198.3178863525391 69.18202209472656 C 198.3178863525391 74.87137603759766 193.8240051269531 79.5 188.30029296875 79.5 Z" stroke="none"/>
-      <path d="M 10.51756286621094 1 C 5.269561767578125 1 0.9999847412109375 5.404327392578125 0.9999847412109375 10.81797790527344 L 0.9999847412109375 69.18202209472656 C 0.9999847412109375 74.59567260742188 5.269561767578125 79 10.51756286621094 79 L 188.30029296875 79 C 193.5482788085938 79 197.8178558349609 74.59567260742188 197.8178558349609 69.18202209472656 L 197.8178558349609 10.81797790527344 C 197.8178558349609 5.404327392578125 193.5482788085938 1 188.30029296875 1 L 10.51756286621094 1 M 10.51756286621094 0 L 188.30029296875 0 C 194.1089782714844 0 198.8178558349609 4.843376159667969 198.8178558349609 10.81797790527344 L 198.8178558349609 69.18202209472656 C 198.8178558349609 75.15662384033203 194.1089782714844 80 188.30029296875 80 L 10.51756286621094 80 C 4.708892822265625 80 -1.52587890625e-05 75.15662384033203 -1.52587890625e-05 69.18202209472656 L -1.52587890625e-05 10.81797790527344 C -1.52587890625e-05 4.843376159667969 4.708892822265625 0 10.51756286621094 0 Z" stroke="none" fill="#707070"/>
-    </g>
-    <text id="Anime" transform="translate(764 3128)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">Anime</tspan></text>
-    <g id="Path_11" data-name="Path 11" transform="translate(535 3180)" fill="#fff">
+    <text id="Data_Structure" data-name="Data Structure" transform="translate(180 2788)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">Data Structure</tspan></text>
+    <g id="Path_11" data-name="Path 11" transform="translate(535 2730)" fill="#fff">
       <path d="M 430.9302368164063 79.5 L 24.06977844238281 79.5 C 17.7096118927002 79.5 11.73794460296631 78.39033508300781 7.254833221435547 76.37544250488281 C 5.104610919952393 75.40899658203125 3.422610998153687 74.29022216796875 2.255611181259155 73.05016326904297 C 1.090666651725769 71.81227874755859 0.5 70.51083374023438 0.5 69.18199920654297 L 0.5 10.81799983978271 C 0.5 9.489166259765625 1.090666651725769 8.187722206115723 2.255611181259155 6.949833393096924 C 3.422610998153687 5.70977783203125 5.104610919952393 4.591000080108643 7.254833221435547 3.624555587768555 C 11.73794460296631 1.609666705131531 17.7096118927002 0.5 24.06977844238281 0.5 L 430.9302368164063 0.5 C 437.2903442382813 0.5 443.2619934082031 1.609666705131531 447.7451782226563 3.624555587768555 C 449.8953857421875 4.591000080108643 451.5773315429688 5.70977783203125 452.7443237304688 6.949833393096924 C 453.9093322753906 8.187722206115723 454.5 9.489166259765625 454.5 10.81799983978271 L 454.5 69.18199920654297 C 454.5 70.51083374023438 453.9093322753906 71.81227874755859 452.7443237304688 73.05016326904297 C 451.5773315429688 74.29022216796875 449.8953857421875 75.40899658203125 447.7451782226563 76.37544250488281 C 443.2619934082031 78.39033508300781 437.2903442382813 79.5 430.9302368164063 79.5 Z" stroke="none"/>
       <path d="M 24.0697021484375 1 C 17.77871704101563 1 11.8798828125 2.09405517578125 7.459808349609375 4.080650329589844 C 5.369873046875 5.019943237304688 3.741485595703125 6.100532531738281 2.6197509765625 7.292472839355469 C 1.544952392578125 8.434532165527344 1 9.620704650878906 1 10.81800079345703 L 1 69.18199920654297 C 1 70.37929534912109 1.544952392578125 71.56546783447266 2.6197509765625 72.70752716064453 C 3.741485595703125 73.89946746826172 5.369873046875 74.98005676269531 7.459808349609375 75.91934967041016 C 11.8798828125 77.90594482421875 17.77871704101563 79 24.0697021484375 79 L 430.9302368164063 79 C 437.2212219238281 79 443.1201171875 77.90594482421875 447.5401611328125 75.91934967041016 C 449.630126953125 74.98005676269531 451.2585144042969 73.89946746826172 452.3802490234375 72.70752716064453 C 453.4550476074219 71.56546783447266 454 70.37929534912109 454 69.18199920654297 L 454 10.81800079345703 C 454 9.620704650878906 453.4550476074219 8.434532165527344 452.3802490234375 7.292472839355469 C 451.2585144042969 6.100532531738281 449.630126953125 5.019943237304688 447.5401611328125 4.080650329589844 C 443.1201171875 2.09405517578125 437.2212219238281 1 430.9302368164063 1 L 24.0697021484375 1 M 24.0697021484375 0 L 430.9302368164063 0 C 444.2236022949219 0 455 4.843353271484375 455 10.81800079345703 L 455 69.18199920654297 C 455 75.15664672851563 444.2236022949219 80 430.9302368164063 80 L 24.0697021484375 80 C 10.77639770507813 80 0 75.15664672851563 0 69.18199920654297 L 0 10.81800079345703 C 0 4.843353271484375 10.77639770507813 0 24.0697021484375 0 Z" stroke="none" fill="#707070"/>
     </g>
-    <text id="Cloud_Architecture" data-name="Cloud Architecture" transform="translate(565 3238)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">Cloud Architecture</tspan></text>
-    <g id="Rectangle_47" data-name="Rectangle 47" transform="translate(640 1847)" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <text id="Cloud_Architecture" data-name="Cloud Architecture" transform="translate(565 2788)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">Cloud Architecture</tspan></text>
+    <text id="Data_Structure-2" data-name="Data Structure" transform="translate(200 1812)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Data Structure</tspan></text>
+    <text id="Algorithms" transform="translate(200 1880)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Algorithms</tspan></text>
+    <text id="Networking" transform="translate(200 1948)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Networking</tspan></text>
+    <text id="Operating_System" data-name="Operating System" transform="translate(200 2016)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Operating System</tspan></text>
+    <text id="C" transform="translate(200 2243)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">C</tspan></text>
+    <text id="Java" transform="translate(200 2379)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Java</tspan></text>
+    <text id="Python" transform="translate(700 2243)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Python</tspan></text>
+    <text id="PHP" transform="translate(700 2311)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">PHP</tspan></text>
+    <text id="Javascript" transform="translate(700 2379)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Javascript</tspan></text>
+    <text id="C_" data-name="C++" transform="translate(200 2311)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">C++</tspan></text>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(150 1768)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <text id="Data_Structure-2" data-name="Data Structure" transform="translate(150 1915)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Data Structure</tspan></text>
-    <g id="Rectangle_48" data-name="Rectangle 48" transform="translate(720 1920)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(150 1836)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_49" data-name="Rectangle 49" transform="translate(800 1920)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(150 1904)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_50" data-name="Rectangle 50" transform="translate(880 1920)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(150 1972)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_51" data-name="Rectangle 51" transform="translate(960 1920)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(150 2040)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_52" data-name="Rectangle 52" transform="translate(640 1920)" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(150 2267)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <text id="Algorithms" transform="translate(150 1988)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Algorithms</tspan></text>
-    <g id="Rectangle_53" data-name="Rectangle 53" transform="translate(720 1993)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_13" data-name="Ellipse 13" transform="translate(150 2335.283)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_54" data-name="Rectangle 54" transform="translate(800 1993)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(150 2402)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_55" data-name="Rectangle 55" transform="translate(880 1993)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(650 2266.679)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_56" data-name="Rectangle 56" transform="translate(960 1993)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_16" data-name="Ellipse 16" transform="translate(650 2335.377)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <g id="Rectangle_57" data-name="Rectangle 57" transform="translate(640 1993)" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <g id="Ellipse_17" data-name="Ellipse 17" transform="translate(650 2402.66)" fill="#707070" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
     </g>
-    <text id="Networking" transform="translate(150 2061)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Networking</tspan></text>
-    <g id="Rectangle_59" data-name="Rectangle 59" transform="translate(720 2066)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <text id="An_enthusiastic_cloud_computing_student_having_good_problem_solving_and_cloud_solution_design_skills_also_good_at_web-application_architecture." data-name="An enthusiastic cloud computing student having good problem solving and cloud solution design skills, also good at web-application architecture." transform="translate(150 480)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="48">An enthusiastic cloud computing student </tspan><tspan x="0" y="108">having good problem solving and cloud </tspan><tspan x="0" y="168">solution design skills, also good at web-</tspan><tspan x="0" y="228">application architecture.</tspan></text>
+    <text id="All_the_information_mentioned_in_the_resume_are_correct_to_the_best_of_my_knowledge_and_believe." data-name="All the information mentioned in the resume are correct to the best of my knowledge and believe." transform="translate(150 2983)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="48">All the information mentioned in the </tspan><tspan x="0" y="108">resume are correct to the best of my </tspan><tspan x="0" y="168">knowledge and believe.</tspan></text>
+    <text id="Declaration_" data-name="Declaration
+" transform="translate(154 2870)" fill="#707070" font-size="80" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="76">Declaration</tspan></text>
+    <line id="Line_22" data-name="Line 22" x2="875.543" y2="3" transform="translate(150 2970)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="Sign-_Jitendra_Sharma_" data-name="Sign- Jitendra Sharma
+" transform="translate(550 3280)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="48">Sign- Jitendra Sharma</tspan></text>
+    <g id="Path_12" data-name="Path 12" transform="translate(150 2620)" fill="#fff">
+      <path d="M 120.657096862793 79.5 L 6.73933219909668 79.5 C 5.118198871612549 79.5 3.576515436172485 78.45841979980469 2.398282051086426 76.56710052490234 C 1.174165487289429 74.60213470458984 0.4999988079071045 71.97938537597656 0.4999988079071045 69.18201446533203 L 0.4999988079071045 10.81798362731934 C 0.4999988079071045 8.02061653137207 1.174165487289429 5.397866725921631 2.398282051086426 3.432899951934814 C 3.576532125473022 1.541583299636841 5.118198871612549 0.5 6.73933219909668 0.5 L 120.657096862793 0.5 C 122.2782135009766 0.5 123.8199005126953 1.541583299636841 124.9981307983398 3.432899951934814 C 126.2222671508789 5.397883415222168 126.8964309692383 8.02061653137207 126.8964309692383 10.81798362731934 L 126.8964309692383 69.18201446533203 C 126.8964309692383 71.97938537597656 126.2222671508789 74.60213470458984 124.9981307983398 76.56710052490234 C 123.8199005126953 78.45841979980469 122.2782135009766 79.5 120.657096862793 79.5 Z" stroke="none"/>
+      <path d="M 6.739334106445313 1 C 5.297218322753906 1 3.90625 1.957916259765625 2.822662353515625 3.697265625 C 1.647300720214844 5.583984375 1 8.112831115722656 1 10.81798553466797 L 1 69.18201446533203 C 1 71.88716888427734 1.647300720214844 74.416015625 2.822662353515625 76.30271911621094 C 3.90625 78.04208374023438 5.297218322753906 79 6.739334106445313 79 L 120.6570816040039 79 C 122.0991973876953 79 123.4901657104492 78.04208374023438 124.5737457275391 76.30271911621094 C 125.7491302490234 74.416015625 126.3964309692383 71.88716888427734 126.3964309692383 69.18201446533203 L 126.3964309692383 10.81798553466797 C 126.3964309692383 8.112831115722656 125.7491302490234 5.583984375 124.5737457275391 3.697265625 C 123.4901657104492 1.957916259765625 122.0991973876953 1 120.6570816040039 1 L 6.739334106445313 1 M 6.739334106445313 0 L 120.6570816040039 0 C 124.3791122436523 0 127.3964309692383 4.843368530273438 127.3964309692383 10.81798553466797 L 127.3964309692383 69.18201446533203 C 127.3964309692383 75.1566162109375 124.3791122436523 80 120.6570816040039 80 L 6.739334106445313 80 C 3.017295837402344 80 0 75.1566162109375 0 69.18201446533203 L 0 10.81798553466797 C 0 4.843368530273438 3.017295837402344 0 6.739334106445313 0 Z" stroke="none" fill="#707070"/>
     </g>
-    <g id="Rectangle_60" data-name="Rectangle 60" transform="translate(800 2066)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
+    <text id="C_2" data-name="C++" transform="translate(171 2678)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">C++</tspan></text>
+    <g id="Path_13" data-name="Path 13" transform="translate(308 2620)" fill="#fff">
+      <path d="M 214.9915924072266 79.5 L 12.0084114074707 79.5 C 5.662647247314453 79.5 0.5 74.87138366699219 0.5 69.18202972412109 L 0.5 10.81797027587891 C 0.5 5.128617763519287 5.662647247314453 0.5 12.0084114074707 0.5 L 214.9915924072266 0.5 C 221.3373565673828 0.5 226.5 5.128617763519287 226.5 10.81797027587891 L 226.5 69.18202972412109 C 226.5 74.87138366699219 221.3373565673828 79.5 214.9915924072266 79.5 Z" stroke="none"/>
+      <path d="M 12.00840759277344 1 C 5.9383544921875 1 1 5.404319763183594 1 10.81797027587891 L 1 69.18202972412109 C 1 74.59567260742188 5.9383544921875 79 12.00840759277344 79 L 214.9915618896484 79 C 221.0616455078125 79 226 74.59567260742188 226 69.18202972412109 L 226 10.81797027587891 C 226 5.404319763183594 221.0616455078125 1 214.9915618896484 1 L 12.00840759277344 1 M 12.00840759277344 0 L 214.9915618896484 0 C 221.6236114501953 0 227 4.8433837890625 227 10.81797027587891 L 227 69.18202972412109 C 227 75.1566162109375 221.6236114501953 80 214.9915618896484 80 L 12.00840759277344 80 C 5.376358032226563 80 0 75.1566162109375 0 69.18202972412109 L 0 10.81797027587891 C 0 4.8433837890625 5.376358032226563 0 12.00840759277344 0 Z" stroke="none" fill="#707070"/>
     </g>
-    <g id="Rectangle_61" data-name="Rectangle 61" transform="translate(960 2066)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_62" data-name="Rectangle 62" transform="translate(640 2066)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <text id="Operating_System" data-name="Operating System" transform="translate(150 2134)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Operating System</tspan></text>
-    <g id="Rectangle_64" data-name="Rectangle 64" transform="translate(720 2139)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_65" data-name="Rectangle 65" transform="translate(800 2139)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_66" data-name="Rectangle 66" transform="translate(960 2139)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_67" data-name="Rectangle 67" transform="translate(640 2139)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_68" data-name="Rectangle 68" transform="translate(880 2066)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_69" data-name="Rectangle 69" transform="translate(880 2139)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <text id="C" transform="translate(150 2425)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">C</tspan></text>
-    <g id="Rectangle_70" data-name="Rectangle 70" transform="translate(720 2430)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_71" data-name="Rectangle 71" transform="translate(800 2430)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_72" data-name="Rectangle 72" transform="translate(880 2430)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_73" data-name="Rectangle 73" transform="translate(960 2430)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_74" data-name="Rectangle 74" transform="translate(640 2430)" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <text id="Java" transform="translate(150 2571)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Java</tspan></text>
-    <g id="Rectangle_75" data-name="Rectangle 75" transform="translate(640 2576)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_76" data-name="Rectangle 76" transform="translate(720 2576)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_77" data-name="Rectangle 77" transform="translate(800 2576)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_78" data-name="Rectangle 78" transform="translate(960 2576)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <text id="Python" transform="translate(150 2644)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Python</tspan></text>
-    <g id="Rectangle_80" data-name="Rectangle 80" transform="translate(720 2649)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_81" data-name="Rectangle 81" transform="translate(800 2649)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_82" data-name="Rectangle 82" transform="translate(880 2649)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_83" data-name="Rectangle 83" transform="translate(960 2649)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_84" data-name="Rectangle 84" transform="translate(640 2649)" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <text id="PHP" transform="translate(150 2717)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">PHP</tspan></text>
-    <g id="Rectangle_85" data-name="Rectangle 85" transform="translate(800 2722)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_86" data-name="Rectangle 86" transform="translate(880 2722)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_87" data-name="Rectangle 87" transform="translate(960 2722)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_88" data-name="Rectangle 88" transform="translate(720 2722)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <text id="Javascript" transform="translate(150 2790)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">Javascript</tspan></text>
-    <g id="Rectangle_89" data-name="Rectangle 89" transform="translate(720 2795)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_90" data-name="Rectangle 90" transform="translate(800 2795)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_91" data-name="Rectangle 91" transform="translate(960 2795)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_92" data-name="Rectangle 92" transform="translate(640 2795)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_94" data-name="Rectangle 94" transform="translate(880 2795)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <text id="C_2" data-name="C++" transform="translate(150 2498)" fill="#4d4d4d" font-size="50" font-family="Cambria"><tspan x="0" y="48">C++</tspan></text>
-    <g id="Rectangle_95" data-name="Rectangle 95" transform="translate(720 2503)" fill="#444" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_96" data-name="Rectangle 96" transform="translate(800 2503)" fill="#777" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_97" data-name="Rectangle 97" transform="translate(880 2503)" fill="#aaa" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_98" data-name="Rectangle 98" transform="translate(960 2503)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_99" data-name="Rectangle 99" transform="translate(640 2503)" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_100" data-name="Rectangle 100" transform="translate(640 2722)" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
-    <g id="Rectangle_101" data-name="Rectangle 101" transform="translate(880 2576)" fill="#fff" stroke="#707070" stroke-width="1">
-      <rect width="60" height="50" stroke="none"/>
-      <rect x="0.5" y="0.5" width="59" height="49" fill="none"/>
-    </g>
+    <text id="Python-2" data-name="Python" transform="translate(334.385 2678)" fill="#707070" font-size="50" font-family="Cambria"><tspan x="0" y="0">Python</tspan></text>
   </g>
 </svg>
